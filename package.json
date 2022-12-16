@@ -1,0 +1,21 @@
+{
+  "name": "playwright-engineer-open",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yamad07/playwright-engineer-open.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamad07/playwright-engineer-open/issues"
+  },
+  "homepage": "https://github.com/yamad07/playwright-engineer-open#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
